@@ -32,3 +32,11 @@
 2022-09-05 23:10:10,175 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\hemant123\publicschoo12\src\main\resources
 2022-09-05 23:10:10,180 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-09-05 23:10:10,180 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\hemant123\publicschoo12\src\test\resources
+2022-09-05 23:17:07,042 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 23:17:07,042 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\hemant123\publicschoo12\src\main\resources
+2022-09-05 23:17:07,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 23:17:07,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\hemant123\publicschoo12\src\test\resources
+2022-09-05 23:17:21,709 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 23:17:21,709 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\hemant123\publicschoo12\src\main\resources
+2022-09-05 23:17:21,712 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 23:17:21,712 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory I:\hemant123\publicschoo12\src\test\resources
